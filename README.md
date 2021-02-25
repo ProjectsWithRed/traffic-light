@@ -13,4 +13,4 @@ There is a [video](https://youtu.be/fJdIffIhj94) associated with this repo, I hi
 
 # 3D models
 
-- To be added.
+For all the 3D models, please refer to the `/3d_models` directory.
